@@ -89,6 +89,7 @@
 ---
 
 ## 📝 Notes
-.gitignore: Excludes `*.jtl`, `Reports/`, and `SS/`.
-
-Excel Reports: Update manually from HTML metrics.
+- .gitignore: Excludes `*.jtl`, `Reports/`, and `SS/`.
+- Excel Reports: Update manually from HTML metrics.
+- CSV (text format) UserIDs are created with Postman
+- If Agents can't deposit because of insufficient balance create new Agents with Postman
