@@ -68,15 +68,15 @@
 #### Task 1: Booking API
 
 **Load Test Report**
-![20250311_162237_chrome](https://github.com/user-attachments/assets/f3a27796-51c7-48a3-9e23-d6ef97a99e7c)
+![LoadTest_20250311_162237_chrome](https://github.com/user-attachments/assets/f3a27796-51c7-48a3-9e23-d6ef97a99e7c)
 
 **Stress Test Report**
-![20250315_152446_chrome](https://github.com/user-attachments/assets/22198f5d-4823-4a4e-af91-2f9e27833c72)
+![StressTest_20250315_152446_chrome](https://github.com/user-attachments/assets/22198f5d-4823-4a4e-af91-2f9e27833c72)
 
 #### Task 2: Dmoney API
 
 **Request Summary**
-[screencapture-file-D-Install-apache-jmeter-5-6-3-bin-Assignment-on-Jmeter-B14-DmoneyReport-index-html-2025-03-15-15_19_28](https://github.com/user-attachments/assets/0868374b-b203-4355-8864-1ee50e8b5b99)
+![Assignment-on-Jmeter-B14-DmoneyReport-2025-03-15-15_19_28](https://github.com/user-attachments/assets/0868374b-b203-4355-8864-1ee50e8b5b99)
 
 ---
 
