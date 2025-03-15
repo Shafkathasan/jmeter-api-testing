@@ -47,7 +47,7 @@
 4. **View Reports**:
 
 - Open `LoadReport/index.html` or `StressReport/index.html`.
-- Update `A03 Booking Api Test Report.xlsx` manually with metrics.
+- Update `A03_Booking_Api_Test_Report.xlsx` manually with metrics.
 
 ### **Task 2: Dmoney API Functional Tests**
 
@@ -63,7 +63,7 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Reports Screenshots
 
 #### Task 1: Booking API
 
@@ -89,6 +89,6 @@
 ---
 
 ## 📝 Notes
-.gitignore: Excludes ```*.jtl```, ``Reports/``, and ```SS/```.
+.gitignore: Excludes `*.jtl`, `Reports/`, and `SS/`.
 
 Excel Reports: Update manually from HTML metrics.
