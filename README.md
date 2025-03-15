@@ -48,3 +48,29 @@
 
 - Open `LoadReport/index.html` or `StressReport/index.html`.
 - Update `A03 Booking Api Test Report.xlsx` manually with metrics.
+
+### **Task 2: Dmoney API Functional Tests**
+
+1. **Run the test**:
+
+   ```bash
+   jmeter -n -t A03_dmoney_b14.jmx -l A03_dmoney_b14.jtl -e -o DmoneyReport
+   ```
+
+2. **View Report**:
+
+- Open `DmoneyReport/index.html`.
+
+---
+
+## 📸 Screenshots
+
+#### Task 1: Booking API
+
+**Load Test Report**
+
+**Stress Test Report**
+
+#### Task 2: Dmoney API
+
+**Request Summary**
